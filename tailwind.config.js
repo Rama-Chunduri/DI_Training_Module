@@ -1,18 +1,4 @@
-/*body{
-    background: linear-gradient(
-        to right
-        white 0%
-        white 50%
-        rgb(196, 140, 196) 50%
-        rgb(196, 140, 196) 100%
-    );
-}
-h1{
-    color: black;
-    font-size: xx-large;
-    font-style: italic;
-}*/
-// tailwind.config.js
+
 /** @type {import('tailwindcss').Config} */
 module.exports = {
     content: [
